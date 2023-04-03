@@ -1,0 +1,18 @@
+header{text-align: center;
+background-color: white;
+padding: 1rem;}
+header img{width: 27rem;}
+body{text-align: center;
+color: rgb(27, 20, 100);
+background-color: beige;}
+a{color: whitesmoke;}
+a:hover{color: rgb(125, 240, 177);}
+a:active{color: #2be2ca;}
+nav{background-color: rgb(4, 121, 148);
+padding: 0.01rem;}
+div{background-color: rgb(231, 228, 228);
+padding-left: 1rem;
+padding-right: 1rem;
+padding-bottom: 0.5rem;}
+footer{background-color: rgb(253, 218, 223);
+padding-bottom: 0.5rem;}
